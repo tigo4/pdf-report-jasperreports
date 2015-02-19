@@ -1,0 +1,6 @@
+generate report with test REP001Test.java:
+
+    mvn clean test
+
+    result report location: target/test_REP001_report.pdf
+
